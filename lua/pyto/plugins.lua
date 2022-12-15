@@ -18,4 +18,5 @@ return require("packer").startup(function(use)
     use 'onsails/lspkind.nvim'
     use 'glepnir/lspsaga.nvim'
     use 'nvim-treesitter/nvim-treesitter'
+    use 'nvim-telescope/telescope.nvim'
 end)

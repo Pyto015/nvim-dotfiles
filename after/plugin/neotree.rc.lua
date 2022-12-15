@@ -1,6 +1,6 @@
 require('neo-tree').setup({
-    close_if_last_window = false, 
-        popup_border_style = "rounded",
+    close_if_last_window = false,
+    popup_border_style = "rounded",
     enable_git_status = true,
     enable_diagnostics = true,
     source_selector = {winbar = true, statusline = false},
@@ -14,8 +14,8 @@ require('neo-tree').setup({
             ["r"] = "rename",
             ["c"] = "copy",
             ["m"] = "move",
-            ["q"] = "close_window",
+            ["q"] = "close_window"
         }
-    },
-    
+    }
+
 })

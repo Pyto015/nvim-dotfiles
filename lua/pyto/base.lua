@@ -1,4 +1,4 @@
---base configuration vim
+--base configuration
 
 local v = vim
 

@@ -23,4 +23,5 @@ return require("packer").startup(function(use)
     use 'lewis6991/gitsigns.nvim'
     use 'akinsho/bufferline.nvim'
     use   'nvim-lualine/lualine.nvim'
+    use 'ayu-theme/ayu-vim'
 end)

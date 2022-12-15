@@ -12,4 +12,5 @@ v.opt.expandtab = true
 v.opt.smarttab = true
 v.opt.shiftwidth = 2
 v.opt.tabstop = 4
-
+v.g.ayucolor = "dark"
+v.opt.termguicolors = true

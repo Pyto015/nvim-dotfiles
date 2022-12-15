@@ -17,4 +17,5 @@ return require("packer").startup(function(use)
     use 'saadparwaiz1/cmp_luasnip'
     use 'onsails/lspkind.nvim'
     use 'glepnir/lspsaga.nvim'
+    use 'nvim-treesitter/nvim-treesitter'
 end)

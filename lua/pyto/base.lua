@@ -2,6 +2,7 @@
 
 local v = vim
 
+v.g.mapleader=" "
 v.opt.number= true
 v.opt.swapfile = false
 v.opt.wrap = false

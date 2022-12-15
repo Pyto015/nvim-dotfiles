@@ -11,3 +11,7 @@ key.set("n", "sf", ":Telescope find_files<CR>")
 key.set("n", "gs", ":Telescope grep_string<CR>")
 key.set("n", "gg", ":Telescope live_grep<CR>")
 key.set("n", "T", ":ToggleTerm<CR>")
+key.set("n", "te", ":tabedit<CR>")
+key.set("n", "<Tab>", ":tabnext<CR>")
+key.set("n", "<S-Tab>", ":tabprev<CR>")
+

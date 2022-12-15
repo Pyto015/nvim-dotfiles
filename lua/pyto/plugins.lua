@@ -19,4 +19,5 @@ return require("packer").startup(function(use)
     use 'glepnir/lspsaga.nvim'
     use 'nvim-treesitter/nvim-treesitter'
     use 'nvim-telescope/telescope.nvim'
+    use 'akinsho/toggleterm.nvim'
 end)

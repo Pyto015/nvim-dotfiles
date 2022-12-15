@@ -20,4 +20,5 @@ return require("packer").startup(function(use)
     use 'nvim-treesitter/nvim-treesitter'
     use 'nvim-telescope/telescope.nvim'
     use 'akinsho/toggleterm.nvim'
+    use 'lewis6991/gitsigns.nvim'
 end)

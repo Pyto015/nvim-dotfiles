@@ -2,8 +2,8 @@
 
 local v = vim
 
-v.g.mapleader=" "
-v.opt.number= true
+v.g.mapleader = " "
+v.opt.number = true
 v.opt.swapfile = false
 v.opt.wrap = false
 v.opt.syntax = "on"

@@ -1,3 +1,3 @@
 require("telescope").setup({
-    border = "rounded"
+	border = "rounded",
 })
